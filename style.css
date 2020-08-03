@@ -37,13 +37,13 @@ hr {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
+  background-color: #588C7E;
+  border-color: #588C7E;
 }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #588C7E;
+  border-color: #588C7E;
   border-width: 4px;
 }
 
