@@ -12,7 +12,12 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #e2dbdb;
+  color: #588C7E;
+}
+
+H2 {
+  font-size:1rem;
+  colof: #fafafa;
 }
 
 hr {
